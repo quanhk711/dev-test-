@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T11:52:53.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CVqGAk6wDag9jEMH8x4d" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T11:56:53.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="U2ErNM_ZD5U4dnEIpPwU" version="20.2.0" type="github">
   <diagram id="qoA-2MzVj23-SzxVXjgd" name="Trang-1">
-    <mxGraphModel dx="4030" dy="1312" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4179" dy="1157" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tZL5azsCDNTdXvrAhpnY-252" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-2578" y="3290" width="293" height="137" as="geometry" />
+          <mxGeometry x="-2578" y="3300" width="293" height="127" as="geometry" />
         </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-222" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2580" y="3159" width="296" height="79" as="geometry" />
@@ -553,6 +553,15 @@
         </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-229" value="&lt;b&gt;LDAP/AD System&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-2487" y="3324.5" width="118" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-254" value="&lt;b&gt;Human Interaction&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=none;strokeWidth=1;fillColor=#007FFF;gradientColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-3350" y="3168.5" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-255" value="&lt;div&gt;&lt;b&gt;Integration&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Syster&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=none;strokeWidth=1;fillColor=#007FFF;gradientColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-3317" y="3334" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-256" value="&lt;div&gt;&lt;b&gt;Data Storage&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=none;strokeWidth=1;fillColor=#007FFF;gradientColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-3316.75" y="3466.25" width="126.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
