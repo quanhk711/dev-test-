@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T10:23:45.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yKb4e6KMoMaTFP2ud5m0" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T10:24:00.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FXXDjwZ0vxAzEAv0uXfg" version="20.2.0" type="github">
   <diagram id="qoA-2MzVj23-SzxVXjgd" name="Trang-1">
     <mxGraphModel dx="3907" dy="1236" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-208" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2883" y="3491" width="287" height="101" as="geometry" />
+          <mxGeometry x="-2880" y="3457" width="287" height="101" as="geometry" />
         </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-205" value="Share data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fontSize=12;strokeColor=default;strokeWidth=2;fillColor=#999999;gradientColor=none;" vertex="1" parent="tZL5azsCDNTdXvrAhpnY-208">
           <mxGeometry x="112" y="9" width="60" height="80" as="geometry" />
