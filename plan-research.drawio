@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T12:01:22.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IxCXvGssDv35hr2pCqhG" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-31T06:09:18.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dIbUSwpMZe14UfgBqLl7" version="20.2.0" type="github">
   <diagram id="qoA-2MzVj23-SzxVXjgd" name="Trang-1">
-    <mxGraphModel dx="3830" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4146" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,6 +560,9 @@
         <mxCell id="tZL5azsCDNTdXvrAhpnY-268" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=default;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;rotation=-90;" vertex="1" parent="tZL5azsCDNTdXvrAhpnY-247">
           <mxGeometry x="-14" y="38" width="24" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-271" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="tZL5azsCDNTdXvrAhpnY-247">
+          <mxGeometry x="-35" y="34" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-250" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#000000;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;rotation=90;arrowWidth=0.3230769230769231;arrowSize=0.12;" vertex="1" parent="1">
           <mxGeometry x="-2967.62" y="3416.88" width="32.5" height="187.25" as="geometry" />
         </mxCell>
@@ -583,6 +586,15 @@
         </mxCell>
         <mxCell id="tZL5azsCDNTdXvrAhpnY-230" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=default;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-2897" y="3340" width="24" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-269" value="&lt;h1&gt;Idea TF Templates&lt;/h1&gt;&lt;p&gt;TF custom provider&lt;/p&gt;&lt;p&gt;TF gennerator tools&lt;/p&gt;&lt;p&gt;CDKtf&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-3468" y="3903" width="232" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-270" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2739" y="3254" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZL5azsCDNTdXvrAhpnY-272" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2437" y="3254" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
