@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T15:02:51.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1PJTQftDRTtTY5Tdmq7U" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T16:03:08.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2FWA3fdyO9dGalTYpnU4" version="20.2.3" type="github">
   <diagram id="D66kP5a0QggF74vHpiJR" name="Trang-1">
-    <mxGraphModel dx="1038" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="615" width="395" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-4" value="web log" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="100" height="50" as="geometry" />
         </mxCell>
@@ -59,18 +62,6 @@
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-5" value="&lt;b&gt;pipeline create gitlab project&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-16">
           <mxGeometry x="9" y="38" width="92" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="560" y="240" width="110" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-17">
-          <mxGeometry width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-17">
-          <mxGeometry x="25" y="20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-20" value="&lt;b&gt;Gitlab Project&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-17">
-          <mxGeometry x="8.5" y="63" width="89" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-21" value="Provisioning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="286" width="60" height="30" as="geometry" />
         </mxCell>
@@ -114,18 +105,6 @@
             <mxPoint x="658" y="468.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="463" y="422" width="100" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-33">
-          <mxGeometry width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-33">
-          <mxGeometry x="25" y="20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-36" value="&lt;b&gt;Gitlab&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-33">
-          <mxGeometry x="21" y="63" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-41" value="Provisioning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588" y="468" width="60" height="30" as="geometry" />
         </mxCell>
@@ -141,18 +120,6 @@
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-40" value="&lt;b&gt;associate&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;project owner&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-42">
           <mxGeometry x="8.5" y="57" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="369" y="595" width="106" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-43">
-          <mxGeometry x="6" y="20" width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jenkins.io/images/logos/cossack/cossack.png;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-43">
-          <mxGeometry width="69.64" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-46" value="&lt;b&gt;pipeline associate&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;project owner&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-43">
-          <mxGeometry x="9" y="47" width="92" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-47" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="379.0000000000001" y="506" as="sourcePoint" />
@@ -166,47 +133,80 @@
         <mxCell id="GLwlBK2BYxH5H2xeWFjT-48" value="Trigger with params" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="521" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479" y="660.76" as="sourcePoint" />
-            <mxPoint x="559" y="660.76" as="targetPoint" />
+            <mxPoint x="130" y="661" as="sourcePoint" />
+            <mxPoint x="350" y="661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-50" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="479" y="662" width="60" height="30" as="geometry" />
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-66" value="pull template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="636" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679" y="662.26" as="sourcePoint" />
-            <mxPoint x="759" y="662.26" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.jenkins.io/images/logos/cossack/cossack.png;" vertex="1" parent="1">
+          <mxGeometry x="369" y="595" width="69.64" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="564" y="616" width="100" height="93" as="geometry" />
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-46" value="&lt;b&gt;Init project skeleton&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="642" width="92" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-52">
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="21" y="613" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8EADD;strokeColor=#b85450;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-68">
           <mxGeometry width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-52">
-          <mxGeometry x="25" y="20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-55" value="&lt;b&gt;Gitlab&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-52">
-          <mxGeometry x="21" y="63" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-56" value="Provisioning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="689" y="662" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="769" y="616" width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-57">
-          <mxGeometry width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-57">
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-63" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-68">
           <mxGeometry x="25" y="9" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GLwlBK2BYxH5H2xeWFjT-60" value="&lt;b&gt;associate&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;project owner&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-57">
-          <mxGeometry x="8.5" y="57" width="89" height="30" as="geometry" />
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-64" value="&lt;b&gt;Gitlab template repo&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-68">
+          <mxGeometry x="5" y="58" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="240" width="100" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-69">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-69">
+          <mxGeometry x="25" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-20" value="&lt;b&gt;Gitlab Project&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-69">
+          <mxGeometry x="8.5" y="63" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="463" y="422" width="100" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-70">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-70">
+          <mxGeometry x="25" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-36" value="&lt;b&gt;Gitlab&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-70">
+          <mxGeometry x="21" y="63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="625" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-71">
+          <mxGeometry width="80" height="67.74193548387096" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#EA6B66;shape=mxgraph.azure.git_repository;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-71">
+          <mxGeometry x="20" y="15.053763440860166" width="40" height="37.634408602150536" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-55" value="&lt;b&gt;Checkout&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GLwlBK2BYxH5H2xeWFjT-71">
+          <mxGeometry x="16.80000000000001" y="47.41935483870964" width="48" height="22.580645161290324" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="625" width="80" height="67.74193548387096" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-75" value="&lt;b&gt;create init branch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574" y="646.71" width="70" height="22.58" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="668" y="624.13" width="80" height="67.74193548387096" as="geometry" />
+        </mxCell>
+        <mxCell id="GLwlBK2BYxH5H2xeWFjT-77" value="&lt;b&gt;create PR&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="673" y="646.71" width="70" height="22.58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
