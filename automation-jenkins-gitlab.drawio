@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T07:25:08.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ONEqMLvL617rEfXhT0se" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T07:26:56.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W4KjaFflaPyJb4bWvBcG" version="20.2.4" type="github">
   <diagram id="D66kP5a0QggF74vHpiJR" name="Trang-1">
-    <mxGraphModel dx="486" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,9 +86,6 @@
               <mxPoint x="370" y="350" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vNnDSQwe52qQY6jB95X8-22" value="Trigger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="258" y="316" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vNnDSQwe52qQY6jB95X8-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -390,6 +387,9 @@
         </mxCell>
         <mxCell id="vNnDSQwe52qQY6jB95X8-112" value="&lt;div&gt;run manual base on user request&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;position2=1;base=20;size=80;position=0.5;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="251" y="541" width="120" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="vNnDSQwe52qQY6jB95X8-114" value="Trigger with params" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="333" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
