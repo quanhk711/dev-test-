@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T10:41:13.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="muUlL_r0jwt_yPMSw_6A" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T11:59:37.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="UsPtXhxYVQL5b6E4hZpa" version="20.4.0" type="github">
   <diagram id="goxcBxgpBQ_3l5fvUmvu" name="Trang-1">
-    <mxGraphModel dx="4095" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4719" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,7 +790,7 @@
           <mxGeometry x="-1903" y="2900" width="143" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-2" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="-2740" y="4140" width="541" height="332" as="geometry" />
+          <mxGeometry x="-2680" y="4110" width="541" height="332" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-4" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-2">
           <mxGeometry x="356" y="35.5" width="159" height="264.5" as="geometry" />
@@ -820,10 +820,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-32" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2789" y="3910" width="160" height="174" as="geometry" />
+          <mxGeometry x="-2909" y="3948" width="160" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-32">
-          <mxGeometry width="160" height="162" as="geometry" />
+          <mxGeometry width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-34" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#FF4F8B;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-32">
           <mxGeometry x="115" width="45" height="45" as="geometry" />
@@ -831,17 +831,8 @@
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-35" value="Event rule" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rule_2;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-32">
           <mxGeometry x="27" y="43" width="78" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3060" y="4220" width="255" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-41" value="RUN COMMAND" style="fillColor=none;strokeColor=default;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;fontSize=9;gradientColor=none;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-40">
-          <mxGeometry x="20" y="15" width="235" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-42" value="Document" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-40">
-          <mxGeometry width="64" height="78" as="geometry" />
-        </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-44" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3090" y="3913" width="160" height="160" as="geometry" />
+          <mxGeometry x="-3210" y="3958" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="Qw_DxmiOI-9MhhGWTPlv-44">
           <mxGeometry width="160" height="160" as="geometry" />
@@ -851,8 +842,8 @@
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-47" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=9;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2800" y="3992" as="sourcePoint" />
-            <mxPoint x="-2920" y="3990" as="targetPoint" />
+            <mxPoint x="-2920" y="4040" as="sourcePoint" />
+            <mxPoint x="-3040" y="4040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-48" value="CATCH EVENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Qw_DxmiOI-9MhhGWTPlv-47">
@@ -861,16 +852,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-49" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;autoscaling:EC2_INSTANCE_LAUNCHING&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;fontSize=9;fillColor=default;gradientColor=none;position2=0.41;size=50;position=0.49;" vertex="1" parent="1">
-          <mxGeometry x="-3120" y="3870" width="270" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-52" value="Install App" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2312.302706989642" y="3942.005527330933" as="geometry" />
+          <mxGeometry x="-3240" y="3900" width="270" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-56" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;dowload package from S3&lt;br&gt;run playbook&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;fontSize=9;fillColor=default;gradientColor=none;position2=0;size=34;position=0.3;rotation=0;base=26;" vertex="1" parent="1">
           <mxGeometry x="-2443" y="3670" width="143" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Qw_DxmiOI-9MhhGWTPlv-55" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&quot;source&quot; : [ &quot;aws.autoscaling&quot; ]&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=default;fontSize=9;fillColor=default;gradientColor=none;position2=0;size=44;position=0.3;rotation=0;base=19;" vertex="1" parent="1">
-          <mxGeometry x="-2860" y="3910" width="169" height="74" as="geometry" />
+          <mxGeometry x="-2999" y="3950" width="169" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-42" value="Document" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="1">
+          <mxGeometry x="-3030" y="4240" width="64" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-57" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2830" y="4140" as="sourcePoint" />
+            <mxPoint x="-2830" y="4220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-58" value="TRIGGER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Qw_DxmiOI-9MhhGWTPlv-57">
+          <mxGeometry x="-0.1037" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-59" value="Automation" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.automation;" vertex="1" parent="1">
+          <mxGeometry x="-2868" y="4240" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-60" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2879.5" y="4278.7" as="sourcePoint" />
+            <mxPoint x="-2949.5" y="4278.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qw_DxmiOI-9MhhGWTPlv-62" value="INIT SWARM" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontSize=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2783" y="4278.57" as="sourcePoint" />
+            <mxPoint x="-2683" y="4278.57" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
