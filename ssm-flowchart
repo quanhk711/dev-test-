@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T01:34:50.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0hlimuusoEIqs-AYKxCk" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T01:36:24.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="a-q3nT0enwVC1yGG_mvH" version="20.4.1" type="github">
   <diagram id="IQC-9IpRdc2eMfABK8jO" name="Trang-1">
     <mxGraphModel dx="895" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,11 +43,35 @@
         <mxCell id="-8iFnXUS6_A8qCKE0ANK-9" value="If capacity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8iFnXUS6_A8qCKE0ANK-11" target="-8iFnXUS6_A8qCKE0ANK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-8iFnXUS6_A8qCKE0ANK-11" value="Capacity = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8iFnXUS6_A8qCKE0ANK-12" target="-8iFnXUS6_A8qCKE0ANK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-8iFnXUS6_A8qCKE0ANK-12" value="Capacity &amp;gt;= 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8iFnXUS6_A8qCKE0ANK-17" target="-8iFnXUS6_A8qCKE0ANK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-17" value="Swarm init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8iFnXUS6_A8qCKE0ANK-19" target="-8iFnXUS6_A8qCKE0ANK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-19" value="Swarm join" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-20" value="tag:Node = Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8iFnXUS6_A8qCKE0ANK-21" value="tag:Node = Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
