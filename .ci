@@ -1,4 +1,4 @@
 {
     "buildTech": "python",
-    "sonarScan": "true"
+    "sonarScan": "true",
 }
