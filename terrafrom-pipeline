@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T02:58:59.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XRmzZZi0hyUYIs91Ym3Z" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T02:59:42.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2QdZHCc3FbpItNlJBJkl" version="20.5.3" type="github">
   <diagram id="Da-9mxLUVBWJ8qnGWIZx" name="Trang-1">
     <mxGraphModel dx="1649" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="fspDhyIQ600OyIhCyyho-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6666FF;strokeWidth=2;" vertex="1" parent="fspDhyIQ600OyIhCyyho-13">
           <mxGeometry width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fspDhyIQ600OyIhCyyho-10" value="TF Plan" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;strokeWidth=2;" vertex="1" parent="fspDhyIQ600OyIhCyyho-13">
+        <mxCell id="fspDhyIQ600OyIhCyyho-10" value="TF Init/Plan" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;strokeWidth=2;" vertex="1" parent="fspDhyIQ600OyIhCyyho-13">
           <mxGeometry x="11" y="10" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="fspDhyIQ600OyIhCyyho-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#67AB9F;" edge="1" parent="1">
