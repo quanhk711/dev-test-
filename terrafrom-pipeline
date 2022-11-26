@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T05:24:18.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j1Gcq-KdTWCfFamsYjRS" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T05:25:24.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="32JljECCkII7yMgvKJCt" version="20.5.3" type="github">
   <diagram id="Da-9mxLUVBWJ8qnGWIZx" name="Trang-1">
-    <mxGraphModel dx="2095" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1995" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,6 +468,12 @@
         </mxCell>
         <mxCell id="3qtHMEwN24GnqK-x1VC_-90" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.stack;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="1510" width="40" height="38.97" as="geometry" />
+        </mxCell>
+        <mxCell id="3qtHMEwN24GnqK-x1VC_-91" value="" style="fillColor=none;strokeColor=#EA6B66;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="739" width="480" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="3qtHMEwN24GnqK-x1VC_-92" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.stack;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="750" width="40" height="38.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
