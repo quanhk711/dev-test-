@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T05:12:24.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vHCtm9ky_JiIFbEUoOfV" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T05:20:26.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JLym4l03rJ4FuRqNJyCR" version="21.1.8" type="github">
   <diagram name="Trang-1" id="vxE0sp2lzbkV5UY75fKn">
-    <mxGraphModel dx="963" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1533" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L1nqn9a9XPleD1iWCHkB-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="14" width="820" height="148" as="geometry" />
+        </mxCell>
         <mxCell id="L1nqn9a9XPleD1iWCHkB-1" value="&lt;b&gt;CI REPO&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/gitlab-logo-simple-thin-128.png" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="128" height="128" as="geometry" />
+          <mxGeometry x="-58" y="4" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="L1nqn9a9XPleD1iWCHkB-2" value="&lt;b&gt;CD REPO&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/gitlab-logo-simple-thin-128.png" vertex="1" parent="1">
-          <mxGeometry x="450" y="140" width="128" height="128" as="geometry" />
+          <mxGeometry x="618" y="200" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="L1nqn9a9XPleD1iWCHkB-3" value="&lt;b&gt;CI jobs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L1nqn9a9XPleD1iWCHkB-4" value="&lt;b&gt;CD jobs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L1nqn9a9XPleD1iWCHkB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="599" y="210" width="170" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
